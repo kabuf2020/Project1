@@ -1,5 +1,5 @@
 # Project1
-Kyla Boyd, Christine Gross, Colette St. Mary
+Kyla Boyd, Christine Groso, Colette St. Mary
 
 Plan so far:
 to use iDigBio API and write a script that when given a genus name (we'll start with Lythrypnus)
