@@ -8,7 +8,7 @@ Plan so far:
 3) to create and call a second function that will query the produced dataframe to generate a pie chart of the frequencies of species collected within the genus
 4) to create and call a third function that will....
   
-  
+We had two starting points which is a bit confusing. The fully functional code is in the CallAPIFunction file. We intend to delete the other.
   
   Grading:
 Group plan submitted by 10/30/20	5 points
