@@ -2,11 +2,11 @@
 Kyla Boyd, Christine Groso, Colette St. Mary
 
 Plan so far:
-to use iDigBio API and write a script that when given a genus name (we'll start with Lythrypnus)
+1) to use iDigBio API and write a script that when given a genus name (we'll start with Lythrypnus)
    https://www.idigbio.org/wiki/index.php/IDigBio_API
-will create a function that queries the API to search for collections of taxa from a particular genus included some related fields and to create a dataframe 
-a second function will query the produced dataframe to generate a pie chart of the frequencies of species collected within the genus
-a third function will....
+2) to create and call a function that queries the API to search for collections of taxa from a particular genus included some related fields and to create a dataframe. 
+3) to create and call a second function that will query the produced dataframe to generate a pie chart of the frequencies of species collected within the genus
+4) to create and call a third function that will....
   
   
   
