@@ -4,10 +4,9 @@ Kyla Boyd, Christine Groso, Colette St. Mary
 Plan so far:
 to use iDigBio API and write a script that when given a genus name (we'll start with Lythrypnus)
    https://www.idigbio.org/wiki/index.php/IDigBio_API
-will call a function that creates a dictionary of the species within the genus
-a second function to query how many species in the genus have images available
-and a third function to generate tuples consisting of collections (lots) and their size (number of specimens in the collection) for a species 
-  and to plot those as a histogram.
+will create a function that queries the API to search for collections of taxa from a particular genus included some related fields and to create a dataframe 
+a second function will query the produced dataframe to generate a pie chart of the frequencies of species collected within the genus
+a third function will....
   
   
   
